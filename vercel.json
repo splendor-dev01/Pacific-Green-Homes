@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/((?!images/|frames/|assets/|hero-pacific-green\\.mp4|valleyheart-tour\\.mp4|favicon).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
